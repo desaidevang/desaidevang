@@ -1,7 +1,7 @@
 ### Hi, I'm Devang Desai 👋
-Backend-focused MERN developer who enjoys building real-world web applications and clean REST APIs.
+MERN stack developer focused on learning deeply and building practical, real-world projects.
 
-- 🔭 Currently working on: MERN projects (React, Node.js, Express, MongoDB)
-- 🌱 Learning: Advanced JavaScript, system design basics & DevOps (Docker, CI/CD)
-- 💻 Skills: JavaScript, React, Node.js, Express, MongoDB, REST APIs, Git, Docker
+- 🔭 Currently working on: Full-stack MERN applications
+- 🌱 Learning: Advanced JavaScript & backend architecture
+- 💻 Skills: React, Node.js, Express, MongoDB, REST APIs, Git
 - 🌐 Find me: [LinkedIn](https://linkedin.com/in/devang-desai-890267348)
