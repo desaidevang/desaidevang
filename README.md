@@ -4,4 +4,4 @@ MERN stack developer focused on learning deeply and building practical, real-wor
 - 🔭 Currently working on: Full-stack MERN applications
 - 🌱 Learning: Advanced JavaScript & backend architecture
 - 💻 Skills: React, Node.js, Express, MongoDB, REST APIs, Git
-- 🌐 Find me: [LinkedIn](https://linkedin.com/in/devang-desai-890267348)
+- 🌐 Find me: [LinkedIn](https://linkedin.com/in/devang-desai-)
