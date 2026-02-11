@@ -7,5 +7,5 @@ Currently exploring advanced JavaScript internals and backend engineering princi
 
 - 🔭 Currently working on: Full-stack MERN applications
 - 🌱 Learning: Advanced JavaScript & backend architecture
-- 💻 Skills: React, Node.js, Express, MongoDB, REST APIs, Git
+- 💻 Skills: JavaScript (Advanced), Node.js, Express.js, React.js, Context API, MongoDB, Mongoose, REST APIs, JWT Authentication, Docker, CI/CD, Git & GitHub
 - 🌐 Find me: [LinkedIn](https://linkedin.com/in/devang-desai-)
