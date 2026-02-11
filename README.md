@@ -24,3 +24,10 @@ Backend:
 DevOps:
 - Docker
 - GitHub Actions
+  
+## 📚 Engineering Approach
+
+- Write clean and maintainable backend code
+- Focus on scalability and performance
+- Learn core concepts before abstraction
+- Build systems, not just applications
