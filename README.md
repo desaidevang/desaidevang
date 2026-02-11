@@ -1,5 +1,9 @@
 ### Hi, I'm Devang Desai 👋
-MERN stack developer focused on learning deeply and building practical, real-world projects.
+Full-stack MERN developer with a strong focus on JavaScript fundamentals,
+backend system design, and scalable architecture.
+
+I believe in understanding core concepts deeply rather than just using frameworks.
+Currently exploring advanced JavaScript internals and backend engineering principles.
 
 - 🔭 Currently working on: Full-stack MERN applications
 - 🌱 Learning: Advanced JavaScript & backend architecture
