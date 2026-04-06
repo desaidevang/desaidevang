@@ -59,15 +59,9 @@ I prefer building **complete products** that solve actual business problems rath
 
 ---
 
-## 📈 GitHub Stats
-
-![Devang's GitHub stats](https://github-readme-stats.vercel.app/api?username=desaidevang&show_icons=true&theme=radical)
-
----
-
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/your-link  
+- 💼 LinkedIn: https://www.linkedin.com/in/devang-desai-  
 - 📧 Email: 1desaidevang@gmail.com  
 
 ---
